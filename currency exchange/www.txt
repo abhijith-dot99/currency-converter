@@ -1,0 +1,2 @@
+api key 220aa87d515d36c288fde069
+Example Request: https://v6.exchangerate-api.com/v6/220aa87d515d36c288fde069/latest/USD
